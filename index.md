@@ -3,7 +3,7 @@
 **Effective Date: May 23, 2026**
 
 ## 1. Introduction
-BloodDonor ("the App") is developed by **Wai Min Kyaw** as a community service tool to manage blood donor registration and donation history. We are committed to protecting the privacy and security of the donors' sensitive medical and personal information.
+BloodDonor ("the App") is developed by **Dr.Wai Min Kyaw** as a community service tool to manage blood donor registration and donation history. We are committed to protecting the privacy and security of the donors' sensitive medical and personal information.
 
 ## 2. Data Collection
 The App collects and stores the following information locally on your device:
@@ -40,7 +40,7 @@ contact me at waiminkyaw@gmail.com
 # ကိုယ်ရေးအချက်အလက် လုံခြုံမှုမူဝါဒ (Myanmar Translation)
 
 **၁။ နိဒါန်း**
-"သွေးလှူရှင်" (BloodDonor) အက်ပ်ကို **ဝေမင်းကျော်** မှ လူမှုအကျိုးပြု လုပ်ငန်းတစ်ခုအဖြစ် ဖန်တီးထားခြင်း ဖြစ်ပါသည်။ ကျွန်ုပ်တို့သည် အလှူရှင်များ၏ အရေးကြီးသော ကျန်းမာရေးနှင့် ကိုယ်ရေးအချက်အလက်များကို အလေးထား ကာကွယ်ပေးပါသည်။
+"သွေးလှူရှင်" (BloodDonor) အက်ပ်ကို **ဒေါက်တာ ဝေမင်းကျော်** မှ လူမှုအကျိုးပြု လုပ်ငန်းတစ်ခုအဖြစ် ဖန်တီးထားခြင်း ဖြစ်ပါသည်။ ကျွန်ုပ်တို့သည် အလှူရှင်များ၏ အရေးကြီးသော ကျန်းမာရေးနှင့် ကိုယ်ရေးအချက်အလက်များကို အလေးထား ကာကွယ်ပေးပါသည်။
 
 **၂။ စုဆောင်းထားသော အချက်အလက်များ**
 ဤအက်ပ်သည် အောက်ပါအချက်အလက်များကို သင့်ဖုန်းအတွင်း၌သာ သိမ်းဆည်းထားပါသည်-
